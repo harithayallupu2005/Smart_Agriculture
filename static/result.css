@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif; /* Use any preferred font-family */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Change the background color as needed */
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* Change the color of the heading */
+}
+
+p {
+    text-align: center;
+    font-size: 18px; /* Change the font size of the paragraph */
+    color: #666; /* Change the color of the paragraph */
+}
